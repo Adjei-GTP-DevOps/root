@@ -1,0 +1,14 @@
+{
+    "server": {
+        "host": "yourserver.com",
+        "username": "your_user"
+    },
+    "local_commands": [
+        "whoami",
+        "uptime"
+    ],
+    "remote_commands": [
+        "ls -l",
+        "df -h"
+    ]
+}

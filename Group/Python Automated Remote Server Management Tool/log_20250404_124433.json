@@ -1,0 +1,18 @@
+{
+    "timestamp": "2025-04-04 12:43:18.157751",
+    "local": {
+        "whoami": {
+            "stdout": "adjei",
+            "stderr": "",
+            "returncode": 0
+        },
+        "uptime": {
+            "stdout": "12:43  up 6 days, 22:12, 1 user, load averages: 1.75 2.50 3.99",
+            "stderr": "",
+            "returncode": 0
+        }
+    },
+    "remote": {
+        "error": "[Errno 60] Operation timed out"
+    }
+}

@@ -1,0 +1,4 @@
+Simple command snippets
+
+mysql -h orders-db.czyw00iiw0n0.eu-west-1.rds.amazonaws.com -u admin -p
+password: admin098
